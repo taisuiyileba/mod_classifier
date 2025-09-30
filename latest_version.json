@@ -1,4 +1,8 @@
 {
     "latest_version":"1.2.0",
-    "download_url":"https://github.com/taisuiyileba/mod_classifier"
+    "download_links": {
+    "quark": "夸克网盘链接",
+    "baidu": "百度网盘链接",
+    "123": "123网盘链接"
+    }
 }
